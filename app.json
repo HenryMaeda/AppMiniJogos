@@ -19,10 +19,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.henrymaeda.Prova2HenryTakemoto"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "7e3ccd95-3533-481d-b846-5d6ff5fd00ab"
+      }
+    },
+    "owner": "henrymaeda"
   }
 }
